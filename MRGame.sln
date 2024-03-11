@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions", "Google.XR.ARCoreExtensions.csproj", "{E7C9916D-2635-ED1C-1F02-573DDDA4AE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9C79DF09-5569-BFEC-4B69-536764F72EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions.GeospatialCreator", "Google.XR.ARCoreExtensions.GeospatialCreator.csproj", "{02184EF0-17C4-0EA9-7BCC-E2D601F5A424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions.GeospatialCreator.Editor", "Google.XR.ARCoreExtensions.GeospatialCreator.Editor.csproj", "{6251A960-15A7-0753-1BAE-3241E4ED345F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions.Editor", "Google.XR.ARCoreExtensions.Editor.csproj", "{EE6CC2A6-164C-FF8D-E42D-730B48C379CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{30B6E815-8D9E-A7D6-C8C4-2F45F1271B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C9916D-2635-ED1C-1F02-573DDDA4AE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C9916D-2635-ED1C-1F02-573DDDA4AE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C9916D-2635-ED1C-1F02-573DDDA4AE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C9916D-2635-ED1C-1F02-573DDDA4AE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C79DF09-5569-BFEC-4B69-536764F72EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C79DF09-5569-BFEC-4B69-536764F72EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C79DF09-5569-BFEC-4B69-536764F72EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C79DF09-5569-BFEC-4B69-536764F72EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02184EF0-17C4-0EA9-7BCC-E2D601F5A424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02184EF0-17C4-0EA9-7BCC-E2D601F5A424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02184EF0-17C4-0EA9-7BCC-E2D601F5A424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02184EF0-17C4-0EA9-7BCC-E2D601F5A424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6251A960-15A7-0753-1BAE-3241E4ED345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6251A960-15A7-0753-1BAE-3241E4ED345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6251A960-15A7-0753-1BAE-3241E4ED345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6251A960-15A7-0753-1BAE-3241E4ED345F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6CC2A6-164C-FF8D-E42D-730B48C379CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6CC2A6-164C-FF8D-E42D-730B48C379CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6CC2A6-164C-FF8D-E42D-730B48C379CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6CC2A6-164C-FF8D-E42D-730B48C379CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B6E815-8D9E-A7D6-C8C4-2F45F1271B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B6E815-8D9E-A7D6-C8C4-2F45F1271B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B6E815-8D9E-A7D6-C8C4-2F45F1271B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B6E815-8D9E-A7D6-C8C4-2F45F1271B74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
